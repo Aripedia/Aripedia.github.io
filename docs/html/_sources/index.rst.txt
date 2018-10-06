@@ -10,10 +10,8 @@ Welcome to Aripedia's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   coco_fat_bombs.rst
-   lemon_fat_bomb.rst
+   recipes.rst
    nutrients.rst
-   pork_belly.rst
 
 
 

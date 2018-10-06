@@ -44,6 +44,6 @@ Saturated      7.4 g
 Calories      104 kcal
 Magnesium      6 mg
 Potassium      39 mg
-============  ========
+============  =========
 
 * Macronutrient ratio: Calories from carbs (3.1%), protein (7.9%), fat (89%)
