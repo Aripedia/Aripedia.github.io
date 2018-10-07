@@ -27,8 +27,8 @@ Instructions:
 * When done, keep refrigerated. Coconut oil and coconut butter get soft at room temperature. Enjoy!
 
 
-Nutritional values/serving
---------------------------
+Nutritional values/serving:
+---------------------------
 
 ============  ================
 Group          Amount

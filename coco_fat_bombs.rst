@@ -3,6 +3,10 @@ COCONUT FAT BOMBS
 
 https://ketodietapp.com/Blog/lchf/Keto-Coconut-Fat-Bombs
 
+.. image:: images/Coco*.*
+   :alt: finished coconut fat bomb
+   :scale: 50 %
+
 Ingredients:
 ------------
 
@@ -21,13 +25,13 @@ Ingredients:
 Instructions:
 -------------
 
-* Preheat the oven to 175 °C/ 350 °F. Spread the shredded (or flaked) coconut on a baking sheet. Place in the oven and toast for 5-8 minutes until light golden. Mix once or twice to prevent burning.
-* Transfer into a blender and pulse until smooth. You will get a smooth and runny consistency.
-* Add the softened butter chopped into pieces and softened coconut oil (room temperature).
-* Add cinnamon or vanilla, stevia (if used), salt and mix well.
+#. Preheat the oven to 175 °C/ 350 °F. Spread the shredded (or flaked) coconut on a baking sheet. Place in the oven and toast for 5-8 minutes until light golden. Mix once or twice to prevent burning.
+#. Transfer into a blender and pulse until smooth. You will get a smooth and runny consistency.
+#. Add the softened butter chopped into pieces and softened coconut oil (room temperature).
+#. Add cinnamon or vanilla, stevia (if used), salt and mix well.
    Instead of stevia, you can use ~ 2 tablespoons of powdered Erythritol.
-* Pour into mini muffin forms or an ice cube tray. You should be able to fill each one with about 1 1/2 tablespoons of the mixture to get 12 servings. Place in the fridge for at least 30 minutes and let it solidify.
-* When done, keep refrigerated. Coconut oil and butter get very soft at room temperature. Enjoy!
+#. Pour into mini muffin forms or an ice cube tray. You should be able to fill each one with about 1 1/2 tablespoons of the mixture to get 12 servings. Place in the fridge for at least 30 minutes and let it solidify.
+#. When done, keep refrigerated. Coconut oil and butter get very soft at room temperature. Enjoy!
 
 Nutritional values/serving
 --------------------------

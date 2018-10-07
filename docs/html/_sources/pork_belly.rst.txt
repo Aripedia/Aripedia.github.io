@@ -24,8 +24,8 @@ Ingredients:
 * 1 TBSP Chosen Foods Toasted Sesame Oil
 * 1/2 Teaspoon Black Pepper
 
-Steps:
-------------
+Instructions:
+-------------
 
 #. Slice the Pork Belly into strips that are about 1/2 Inch thick and set aside in a bowl.
 #. Dice the Red Onion, Garlic, and Ginger and set aside for later.
@@ -41,10 +41,10 @@ Steps:
 #. Add the Scrambled Eggs back in and continue stirring and combining the ingredients while heating it all back up to your desired level of doneness (probably just a few more minutes at this point)
 #. Serve right away, or store in an air-tight container for up to a 3 days in the refrigerator.
 
-Nutritional values/ serving 
----------------------------
+Nutritional values/ serving:
+----------------------------
 
-* 8 servings/container, serving siye 1 scoop
+* 8 servings/container, serving size 1 scoop
 
 ============   ========
 Group          Amount
