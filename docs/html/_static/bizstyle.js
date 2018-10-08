@@ -36,6 +36,6 @@ $(window).resize(function(){
         $("li.nav-item-0 a").text("Top");
     }
     else {
-        $("li.nav-item-0 a").text("Aripedia 0.01 documentation");
+        $("li.nav-item-0 a").text("Aripedia 0.02 documentation");
     }
 });

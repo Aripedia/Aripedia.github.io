@@ -1,4 +1,4 @@
-PALEO CHICKEN MASALA CURRY
+Paleo chicken masala curry
 ==========================
 
 https://www.mypcoskitchen.com/paleo-chicken-masala-curry/
@@ -34,7 +34,7 @@ Instructions:
 #. In a large frying pan or wok, heat the olive oil and add the onions and garlic. Cook on medium heat until soft. Add the ginger and chicken and cook 3-4 minutes and add the cloves, cardamon, coriander, turmeric, chili, cayenne, cinnamon sticks, salt, pepper and cumin. Mix well together and add 2 cups of water. Cover and let simmer on medium-heat for 20 minutes, or until the water has evaporated.
 #. Add the coconut cream and garam masala to the pan and mix well. Simmer, uncovered, for an additional 10 minutes until the curry is thick and creamy. Top the curry with the chopped cilantro.
 
-Nutritional values/serving
+Nutritional values/serving:
 ---------------------------
 
 

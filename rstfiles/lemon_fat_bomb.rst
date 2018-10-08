@@ -1,4 +1,4 @@
-EASY LEMON FAT BOMBS
+Easy lemon fat-bombs
 ====================
 
 https://ketodietapp.com/Blog/lchf/Easy-Lemon-Fat-Bombs

@@ -1,5 +1,5 @@
-COCONUT FAT BOMBS
-=================
+Coconut fat-bombs
+===================
 
 https://ketodietapp.com/Blog/lchf/Keto-Coconut-Fat-Bombs
 
@@ -16,7 +16,7 @@ Ingredients:
 * 1/4 tsp cinnamon or vanilla bean powder
 * pinch salt (I like pink Himalayan salt)
 
-   Optional: 20-25 drops Stevia extract (Clear / Coconut) or other healthy low-carb sweetener - you may not need to add any sweetener
+   Optional: 20-25 drops Stevia extract (Clear / Coconut) or other healthy low-carb sweetener - you may not need to add any sweetener.
 
 .. note::
 
@@ -33,8 +33,8 @@ Instructions:
 #. Pour into mini muffin forms or an ice cube tray. You should be able to fill each one with about 1 1/2 tablespoons of the mixture to get 12 servings. Place in the fridge for at least 30 minutes and let it solidify.
 #. When done, keep refrigerated. Coconut oil and butter get very soft at room temperature. Enjoy!
 
-Nutritional values/serving
---------------------------
+Nutritional values/serving:
+----------------------------
 
 ============  =========
 Group          Amount

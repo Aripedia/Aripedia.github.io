@@ -1,10 +1,10 @@
-BASIC CHICKEN AND VEGETABLE STIR-FRY
-=====================================
+Basic chicken and vegetable stir-fry
+=========================================
 
 https://www.taste.com.au/recipes/basic-chicken-vegetable-stir-fry/014fd009-6e08-4296-b155-f0b22fdc857a
 
-INGREDIENTS:
-------------
+Ingredients:
+--------------
 
 * 2 tablespoons peanut oil (see note)
 * 3 chicken breast fillets, trimmed, cut across the grain into thin strips
@@ -22,7 +22,7 @@ INGREDIENTS:
 * Coriander leaves, to serve
 * Cooked white rice or noodles, to serve
 
-INSTREUCTIONS:
+Instructions:
 --------------
 
 #. Heat wok over high heat for about 1 minute (see note). Add 1 tablespoon of the oil and swirl it around the wok to coat the entire cooking surface and heat for 30-60 seconds or until very hot. Add half the chicken strips and stir-fry for 1-2 minutes or until the chicken is sealed and just cooked through (see note). Transfer the chicken to a plate and set aside. Add about half the remaining peanut oil to the wok and repeat the process with the remaining chicken strips.
@@ -31,8 +31,8 @@ INSTREUCTIONS:
 #. Add the soy sauce, oyster sauce and water and toss for about 1 minute. Return the chicken to the wok and stir until the vegetables and chicken are coated with the sauces and the vegetables are tender crisp.
 #. Remove the wok from the heat, toss through the bean sprouts and coriander and serve the stir-fry immediately with cooked rice or noodles.
 
-NUTRITIONAL VALUES:
--------------------
+Nutritional values/serving:
+-------------------------------
 
 ===================   ================
 Group                 Amount

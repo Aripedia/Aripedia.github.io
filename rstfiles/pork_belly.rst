@@ -1,4 +1,4 @@
-PORK BELLY FRIED "RICE"
+Pork belly fried "rice"
 ========================
 
 https://keto-daily.com/keto-pork-belly-fried-rice-recipe/

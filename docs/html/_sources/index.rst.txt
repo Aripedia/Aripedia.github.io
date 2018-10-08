@@ -7,10 +7,10 @@ Welcome to Aripedia's documentation!
 ====================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
-   page_notes.rst
-   recipes.rst
-   nutrients.rst
+   rstfiles/page_notes.rst
+   rstfiles/recipes.rst
+   rstfiles/nutrients.rst
 

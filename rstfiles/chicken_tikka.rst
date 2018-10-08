@@ -1,4 +1,4 @@
-SLOW COOKER TOKKA MASSALA
+Slow cooker tikka massala
 ==========================
 
 https://www.thekitchn.com/recipe-slow-cooker-chicken-tikka-masala-recipes-from-the-kitchn-211284
@@ -44,8 +44,8 @@ Instructions:
    * Smoky flavor alternative: For a little of that smoky tandoori flavor, try using smoked paprika and roasted tomatoes.
    * Storage: Leftovers can be refrigerated in an airtight container for up to 4 days or frozen for up to 3 months.
 
-Nutritional values:
--------------------
+Nutritional values/serving:
+----------------------------
 
 * Per serving, based on 8 servings
 
