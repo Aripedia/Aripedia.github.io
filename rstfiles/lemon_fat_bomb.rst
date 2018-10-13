@@ -3,6 +3,10 @@ Easy lemon fat-bombs
 
 https://ketodietapp.com/Blog/lchf/Easy-Lemon-Fat-Bombs
 
+.. image:: images/LemonFatBombs.jpg
+   :alt: finished fat-bombs
+   :scale: 50 %
+
 Ingredients:
 ------------
 

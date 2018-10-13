@@ -3,10 +3,8 @@ Pork belly fried "rice"
 
 https://keto-daily.com/keto-pork-belly-fried-rice-recipe/
 
-* Ease of Preparation: Moderate
-* Prep Time: 15 Minutes
-* Cooking Time: 30 Minutes
-* Total Time: 45 Minutes
+.. todo:: add photo
+
 
 Ingredients:
 ------------

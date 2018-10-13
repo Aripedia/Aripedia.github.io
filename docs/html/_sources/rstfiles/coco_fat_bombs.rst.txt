@@ -3,7 +3,7 @@ Coconut fat-bombs
 
 https://ketodietapp.com/Blog/lchf/Keto-Coconut-Fat-Bombs
 
-.. image:: images/Coco*.*
+.. image:: images/CoconutFatBombs.jpg
    :alt: finished coconut fat bomb
    :scale: 50 %
 

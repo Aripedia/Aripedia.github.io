@@ -3,6 +3,12 @@ Paleo chicken masala curry
 
 https://www.mypcoskitchen.com/paleo-chicken-masala-curry/
 
+.. image:: images/masala.jpg
+   :alt: cooked meal
+   :scale: 50 %
+
+
+
 Ingredients:
 ------------
 

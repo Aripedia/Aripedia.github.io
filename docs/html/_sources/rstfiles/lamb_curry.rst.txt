@@ -3,6 +3,10 @@ Lamb curry with spinach - Saag Gosht
 
 https://www.ditchthecarbs.com/lamb-curry-spinach-saag-gosht/
 
+.. image:: images/LambCurry.jpg
+   :alt: finished lamb curry
+   :scale: 50 %
+
 Ingredients:
 ------------
 

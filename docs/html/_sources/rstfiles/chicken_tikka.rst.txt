@@ -3,6 +3,10 @@ Slow cooker tikka massala
 
 https://www.thekitchn.com/recipe-slow-cooker-chicken-tikka-masala-recipes-from-the-kitchn-211284
 
+.. image:: images/chicken_tikka.png
+   :alt: finished meal
+   :scale: 60 %
+
 * Serves 4 to 6
 
 .. note::
