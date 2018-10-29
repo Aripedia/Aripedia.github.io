@@ -2,6 +2,7 @@ Nutriton
 ========
 
 .. toctree::
+   :maxdepth: 1
 
    minerals.rst
    vitamins.rst

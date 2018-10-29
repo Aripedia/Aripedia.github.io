@@ -1,10 +1,11 @@
 Pork belly fried "rice"
 ========================
 
-https://keto-daily.com/keto-pork-belly-fried-rice-recipe/
+`Original site <https://keto-daily.com/keto-pork-belly-fried-rice-recipe/>`_
 
-.. todo:: add photo
-
+.. image:: images/porkbelly.jpg
+   :alt: finished dish
+   :scale: 30 %
 
 Ingredients:
 ------------

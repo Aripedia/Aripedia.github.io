@@ -6,8 +6,9 @@ https://www.taste.com.au/recipes/basic-chicken-vegetable-stir-fry/014fd009-6e08-
 Ingredients:
 --------------
 
-* 2 tablespoons peanut oil (see note)
+* 2 tablespoons peanut oil 
 * 3 chicken breast fillets, trimmed, cut across the grain into thin strips
+   * Chicken is a good source of :ref:`selenium <selenium-mineral>`.
 * 1 brown onion, cut into thin wedges
 * 1 red capsicum, deseeded, cut into thin strips
 * 250g button mushrooms or mushroom caps, sliced

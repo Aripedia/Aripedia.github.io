@@ -1,7 +1,7 @@
 Easy lemon fat-bombs
 ====================
 
-https://ketodietapp.com/Blog/lchf/Easy-Lemon-Fat-Bombs
+`Original site <https://ketodietapp.com/Blog/lchf/Easy-Lemon-Fat-Bombs>`_ 
 
 .. image:: images/LemonFatBombs.jpg
    :alt: finished fat-bombs
@@ -10,7 +10,7 @@ https://ketodietapp.com/Blog/lchf/Easy-Lemon-Fat-Bombs
 Ingredients:
 ------------
 
-* 200g coconut butter, softened  - you can make your own
+* 200g coconut butter, softened  
 * 1/4 cup extra virgin coconut oil, softened (55 g)
 * 1-2 tbsp organic lemon zest or lemon extract (1-2 tsp) - it depends on your palate
 * 15-20 drops Stevia extract (Clear or Lemon)

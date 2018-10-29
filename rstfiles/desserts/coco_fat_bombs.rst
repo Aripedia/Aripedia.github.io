@@ -1,7 +1,7 @@
 Coconut fat-bombs
 ===================
 
-https://ketodietapp.com/Blog/lchf/Keto-Coconut-Fat-Bombs
+`Originial site <https://ketodietapp.com/Blog/lchf/Keto-Coconut-Fat-Bombs>`_
 
 .. image:: images/CoconutFatBombs.jpg
    :alt: finished coconut fat bomb
@@ -12,7 +12,7 @@ Ingredients:
 
 * 1 1/2 cup desiccated, shredded coconut or flaked coconut, unsweetened (112g)
 * 1/4 cup extra virgin coconut oil (55g)
-* 1/4 cup butter, grass-fed or more coconut oil (55goz)
+* 1/4 cup butter, grass-fed or more coconut oil (55g)
 * 1/4 tsp cinnamon or vanilla bean powder
 * pinch salt (I like pink Himalayan salt)
 

@@ -82,6 +82,8 @@ Potassium
 * Deficiency:
    * depression, fatigue, hypertension, decreased heart rate
 
+.. _selenium-mineral:
+
 Selenium
 ~~~~~~~~~
 
@@ -113,6 +115,6 @@ Absorption of minerals
 * Over-loading the body can result in toxicity.
 * Foods rich in Phytatescan block absorption (fibre-containing whole grain products –beans, seeds, nuts and soy foods).
 * Foods rich in Oxalates can hinder absorption also (rhubarb, beets, spinach, sweet potatoes, tea, chocolate and soy products).
-* Some Vitamins and Minerals improve absorption. Vitamin D can assist with the absorption of Calcium and Magnesium. Vitamin C can assist the absorption of Iron.
+* Some Vitamins and Minerals improve absorption. Vitamin D can assist with the absorption of Calcium and also Magnesium. Vitamin C can assist the absorption of Iron.
 
 

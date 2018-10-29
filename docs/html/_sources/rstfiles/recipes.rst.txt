@@ -4,5 +4,5 @@ Recipes
 .. toctree::
    :maxdepth: 1
 
-   desserts.rst
-   main_dishes.rst
+   desserts/desserts.rst
+   main_dishes/main_dishes.rst

@@ -1,6 +1,8 @@
 Lamb curry with spinach - Saag Gosht
 =====================================
 
+Good source of :ref:`protein-label`
+
 https://www.ditchthecarbs.com/lamb-curry-spinach-saag-gosht/
 
 .. image:: images/LambCurry.jpg

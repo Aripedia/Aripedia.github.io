@@ -12,5 +12,5 @@ Welcome to Aripedia's documentation!
 
    rstfiles/page_notes.rst
    rstfiles/recipes.rst
-   rstfiles/nutrition.rst
+   rstfiles/nutrition/nutrition.rst
 

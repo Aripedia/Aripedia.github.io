@@ -2,10 +2,11 @@ Nutriton
 ========
 
 .. toctree::
+   :maxdepth: 1
 
-   minerals.rst
-   vitamins.rst
-   fats.rst
-   carbs.rst
-   proteins.rst
-   human_nutrition.rst
+   nutrition/minerals.rst
+   nutrition/vitamins.rst
+   nutrition/fats.rst
+   nutrition/carbs.rst
+   nutrition/proteins.rst
+   nutrition/human_nutrition.rst

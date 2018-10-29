@@ -47,3 +47,10 @@ Instructions:
 .. todo::
 
    Add nutritional table
+
+Nutritional values/ serving:
+----------------------------
+
+.. csv-table:: Table Title
+   :file: moussaka_nutrition.csv
+   :header-rows: 1
