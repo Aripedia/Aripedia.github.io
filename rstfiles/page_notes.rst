@@ -41,6 +41,10 @@ To-do tasks
 
 .. todolist::
 
+* gethub
+   #. describe the summary - commmit to master - fetch origin
+   
+
 
 Completed tasks
 ----------------------------------
